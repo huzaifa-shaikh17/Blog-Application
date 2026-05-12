@@ -1,0 +1,189 @@
+{
+  "blogs": [
+    {
+      "title": "HTML Info",
+      "description": "Learn HTML from basics to advanced with simple examples and real-world projects.",
+      "category": "Technology & Gadgets",
+      "author": "Huzaifa",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp_hKz9fMTJdO-6lXrQKfstv5cLYgk-vqqDg&s",
+      "tags": "HTML",
+      "date": "2026-05-12",
+      "userId": "D1eKIb3Bclo",
+      "id": "Zqxy8An_jzk"
+    },
+    {
+      "title": "CSS",
+      "description": "Learn CSS to style modern, responsive, and visually appealing websites with ease.",
+      "category": "Technology & Gadgets",
+      "author": "Huzaifa",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAc4BswrDj_q0JcxkRYJ09NDHtv5GEfzOzQ&s",
+      "tags": "CSS",
+      "date": "2026-05-12",
+      "userId": "D1eKIb3Bclo",
+      "id": "XwZ4lzq7DXg"
+    },
+    {
+      "title": "Mumbai",
+      "description": "From iconic landmarks to local experiences, learn what makes Mumbai one of India’s most exciting cities.",
+      "category": "Travel & Adventure",
+      "author": "Huzaifa",
+      "imageUrl": "https://t3.ftcdn.net/jpg/01/69/13/46/360_F_169134635_BtuUZImNHXOb5x2GZPQMVA4BMnEbPjiQ.jpg",
+      "tags": "Mumbai",
+      "date": "2026-05-12",
+      "userId": "D1eKIb3Bclo",
+      "id": "AvS0-Mzmt74"
+    },
+    {
+      "title": "Vada Pav",
+      "description": "From crispy potato filling to soft pav and spicy chutneys, discover what makes Vada Pav unforgettable.",
+      "category": "Food & Recipes",
+      "author": "Huzaifa",
+      "imageUrl": "https://www.cookwithmanali.com/wp-content/uploads/2018/04/Vada-Pav-500x500.jpg",
+      "tags": "Vada Pav",
+      "date": "2026-05-12",
+      "userId": "D1eKIb3Bclo",
+      "id": "6iJP71kHBX0"
+    },
+    {
+      "title": "Workers",
+      "description": "This blog shares the daily lives, struggles, and achievements of hardworking workers across different industries.",
+      "category": "Workers",
+      "author": "Huzaifa",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lVRWs9H6q7lTodp2LYwdisNaHI2p7Y2dhA&s",
+      "tags": "Workers",
+      "date": "2026-05-12",
+      "userId": "D1eKIb3Bclo",
+      "id": "uHA8W7PDWZM"
+    },
+    {
+      "title": "Surat",
+      "description": "Explore the culture, food, history, and famous attractions of Surat through detailed travel guides and local experiences.",
+      "category": "Travel & Adventure",
+      "author": "Huzaifa",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIeBr8EkTnCYtTMR9BchMFrJW6HdKpnE-j0A&s",
+      "tags": "Surat",
+      "date": "2026-05-12",
+      "userId": "D1eKIb3Bclo",
+      "id": "CyRi3NByHSw"
+    },
+    {
+      "title": "Workouts",
+      "description": "Your guide to better fitness, stronger performance, and a more active lifestyle through regular workouts.",
+      "category": "Health & Fitness",
+      "author": "Khushal",
+      "imageUrl": "https://assets.gqindia.com/photos/5cdc0e49d0e160243a100354/16:9/w_2560%2Cc_limit/weight-workout.jpg",
+      "tags": "Workouts",
+      "date": "2026-05-12",
+      "userId": "z2nhWe4gNEc",
+      "id": "6gaR0FkXDKs"
+    },
+    {
+      "title": "Entrepreneurship",
+      "description": "Explore startup culture, investment strategies, and modern business trends in the world of entrepreneurship.",
+      "category": "Business & Marketing",
+      "author": "Khushal",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSI8oqGfOu87MYBYIcn86o8hfuWmGLf64yAQ&s",
+      "tags": "Entrepreneurship",
+      "date": "2026-05-12",
+      "userId": "z2nhWe4gNEc",
+      "id": "K1u2X4W8Zuw"
+    },
+    {
+      "title": "Pune",
+      "description": "Explore the culture, food, history, and modern lifestyle of Pune through travel guides and local experiences.",
+      "category": "Travel & Adventure",
+      "author": "Khushal",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3633CdjKoG_CsHSelnk89dTZcIzdyCp9FPA&s",
+      "tags": "Pune",
+      "date": "2026-05-12",
+      "userId": "z2nhWe4gNEc",
+      "id": "gY9hcSppNdA"
+    },
+    {
+      "title": "self-improvement",
+      "description": "Learn practical self-improvement strategies to build better habits, confidence, and personal growth.",
+      "category": "Lifestyle",
+      "author": "Khushal",
+      "imageUrl": "https://i.pinimg.com/236x/fc/fc/5b/fcfc5b4c26efa90d35ef0374c18d8e8f.jpg",
+      "tags": "self-improvement",
+      "date": "2026-05-12",
+      "userId": "z2nhWe4gNEc",
+      "id": "PnKoF7QzBGA"
+    },
+    {
+      "title": "Cooking tutorials",
+      "description": "Explore beginner-friendly cooking tips, traditional dishes, and modern food ideas for every occasion.",
+      "category": "Food & Recipes",
+      "author": "Khushal",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7vkvOQXbabUYjljBuOg0c-vCEhuO2nz7tvA&s",
+      "tags": "Cooking tutorials",
+      "date": "2026-05-12",
+      "userId": "z2nhWe4gNEc",
+      "id": "KEuntFycmxE"
+    },
+    {
+      "title": "child development",
+      "description": "A complete resource for understanding childhood growth, learning patterns, and developmental milestones.",
+      "category": "Parenting & Family",
+      "author": "Raiyan",
+      "imageUrl": "https://www.allisonacademy.com/wp-content/uploads/2021/07/Role-of-society-in-kids-developmentled.jpg",
+      "tags": "child development",
+      "date": "2026-05-12",
+      "userId": "GfAnGjVrWrc",
+      "id": "zMdGlYpXC_0"
+    },
+    {
+      "title": "outfit styling",
+      "description": "Discover outfit styling tips, fashion trends, and wardrobe ideas for every occasion and season.",
+      "category": "Fashion & Beauty",
+      "author": "Raiyan",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3f6v8x0t_u-Vu2RJmsTdMF-HY_dEzd3X-Yg&s",
+      "tags": "outfit styling",
+      "date": "2026-05-12",
+      "userId": "GfAnGjVrWrc",
+      "id": "g1llHvIHMAQ"
+    },
+    {
+      "title": "Los Angeles",
+      "description": "Explore the attractions, beaches, entertainment, and culture of Los Angeles through travel guides and local experiences",
+      "category": "Travel & Adventure",
+      "author": "Raiyan",
+      "imageUrl": "https://res.klook.com/image/upload/fl_lossy.progressive,q_60/v1755071475/destination/zkmjal6ohhft1cdmvnni.jpg",
+      "tags": "Los Angeles",
+      "date": "2026-05-12",
+      "userId": "GfAnGjVrWrc",
+      "id": "X6YR-N_t4-g"
+    }
+  ],
+  "users": [
+    {
+      "name": "Admin",
+      "email": "admin@blog.com",
+      "password": "admin123",
+      "role": "admin",
+      "id": "3EPHcSHX0cs"
+    },
+    {
+      "name": "Huzaifa",
+      "email": "huzaifa123@gmail.com",
+      "password": "huzaifa123",
+      "role": "user",
+      "id": "D1eKIb3Bclo"
+    },
+    {
+      "name": "Khushal",
+      "email": "khushal123@gmail.com",
+      "password": "khushal123",
+      "role": "user",
+      "id": "z2nhWe4gNEc"
+    },
+    {
+      "name": "Raiyan",
+      "email": "raiyan123@gmail.com",
+      "password": "raiyan123",
+      "role": "user",
+      "id": "GfAnGjVrWrc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
